@@ -144,25 +144,18 @@ plt.show()
 ![solo](https://github.com/KameshLeVI/IMAGE-TRANSFORMATIONS/assets/120780633/f6e89b9c-5810-4afb-a001-10412e23865c)
 
 ![sololevel](https://github.com/KameshLeVI/IMAGE-TRANSFORMATIONS/assets/120780633/5442361b-1ee6-4ac9-b701-a861df018d5e)
-
 ### i)Image Translation
 ![Screenshot 2024-03-20 103326](https://github.com/KameshLeVI/IMAGE-TRANSFORMATIONS/assets/120780633/6d40eb69-05e5-4b2e-96ff-0445300d9b2b)
-
 ### ii) Image Scaling
 ![Screenshot 2024-03-20 103402](https://github.com/KameshLeVI/IMAGE-TRANSFORMATIONS/assets/120780633/4e78a526-e261-4933-a431-1d4ea054f575)
-
 ### iii)Image shearing
 ![Screenshot 2024-03-20 103526](https://github.com/KameshLeVI/IMAGE-TRANSFORMATIONS/assets/120780633/222d4445-0995-4fa0-91fe-51d5f5e612db)
-
 ### iv)Image Reflection
 ![Screenshot 2024-03-20 103609](https://github.com/KameshLeVI/IMAGE-TRANSFORMATIONS/assets/120780633/7454f121-7576-4dc4-a7e3-0276557980c0)
-
 ### v)Image Rotation
 ![Screenshot 2024-03-20 103655](https://github.com/KameshLeVI/IMAGE-TRANSFORMATIONS/assets/120780633/6024c5dc-8d9c-46eb-b16a-b4127482e985)
-
-
 ### vi)Image Cropping
- ![Screenshot 2024-03-20 103800](https://github.com/KameshLeVI/IMAGE-TRANSFORMATIONS/assets/120780633/80963d2e-c376-45d7-9554-4c0796e228c8)
+![Screenshot 2024-03-20 103800](https://github.com/KameshLeVI/IMAGE-TRANSFORMATIONS/assets/120780633/80963d2e-c376-45d7-9554-4c0796e228c8)
 
 ## Result:
 Thus the different image transformations such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping are done using OpenCV and python programming.
